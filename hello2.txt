@@ -1,2 +1,1 @@
 Hola UAB
-¡Hola mundo! ¡Git es genial!
